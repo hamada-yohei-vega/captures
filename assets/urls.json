@@ -1,0 +1,13 @@
+{
+    "query": {
+        "baseUrl":"https://www.low-ya.com/item_list.html?siborikomi_clear=1&keyword=",
+        "targets": ["PC", "iPhone X"],
+        "outputs": ["png", "pdf"],
+        "filetype":"png",
+        "filename":"index_pc",
+        "device":"pc",
+        "waitsec":"3",
+        "basic_id":"",
+        "basic_pw":""
+    }
+}
