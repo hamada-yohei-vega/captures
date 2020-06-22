@@ -1,10 +1,10 @@
 # captures
-単一
+単一の商品検索
 ```
 npm run capture:query ソファ
 ```
 
-複数
+複数の商品検索
 ```
 npm run capture:query ソファ,机
 ```
